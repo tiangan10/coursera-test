@@ -1,0 +1,72 @@
+
+#header-nav {
+  background-color: #bfbfbf;
+  border-radius: 0;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand h1 {
+	margin-top: 0;
+	margin-bottom: 0;
+    line-height: 50%;
+    color: black;
+}
+
+.navbar-brand {
+	width: 100%;
+}
+
+.navbar-brand button#dLable, .navbar-brand button#dLable .icon-bar {
+	border: 2px solid black;
+}
+.navbar-brand button.navbar-toggle, .navbar-brand .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-brand button.navbar-toggle {
+	float: right;
+	margin-right: 0;
+	margin-top: -7px;
+}
+
+#nav-list a {
+	font-size: 1.5em;	
+}
+
+.dropdown-menu {
+	width: 100%;
+}
+.menu-box {
+	background-color: #bfbfbf;
+	position: relative;
+  	border: 2px solid #3F0C1F;
+  	overflow: hidden;
+  	margin: 0 5px 15px 5px;
+}
+
+h5.menu-title {
+	position: absolute;
+	width: 20%;
+	top: 0;
+	right: 0;
+	margin: 0 0 10px;
+	background-color: #FFB6C1;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+p {
+	margin: 20px 5px 5px 5px;
+}
+
+.test-box {
+	height: 1000px;
+	border: 1px solid black;
+	background-color: #AAAAAA;
+	margin: 10px;
+}
